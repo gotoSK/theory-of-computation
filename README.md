@@ -1,6 +1,6 @@
 # theory-of-computation
 
-lab1: concepts of string
+lab1: concepts of string  
 lab2 : dfa ending with 01
 lab3: dfa starting with 1 and ending with 0
 lab4: dfa accept even 0 and odd 1
